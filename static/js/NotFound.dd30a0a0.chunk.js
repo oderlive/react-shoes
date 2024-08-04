@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_shoes_v2=self.webpackChunkreact_shoes_v2||[]).push([[187],{4949:function(e,s,r){r.r(s);r(2791);var t=r(2629),u=r(184);s.default=function(){return(0,u.jsx)(t.vr,{})}}}]);
+//# sourceMappingURL=NotFound.dd30a0a0.chunk.js.map
