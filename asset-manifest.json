@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-shoes/static/css/main.8e6db7c8.css",
+    "main.css": "/react-shoes/static/css/main.d56ac252.css",
     "main.js": "/react-shoes/static/js/main.ed24d3c4.js",
     "Cart.js": "/react-shoes/static/js/Cart.b5d7f0f2.chunk.js",
     "static/js/629.224d6d48.chunk.js": "/react-shoes/static/js/629.224d6d48.chunk.js",
@@ -8,14 +8,14 @@
     "static/media/empty-cart.png": "/react-shoes/static/media/empty-cart.db905d1f4b063162f25b.png",
     "static/media/shoes-logo.svg": "/react-shoes/static/media/shoes-logo.981ced2bcf4e62e9be09c6d716622d58.svg",
     "index.html": "/react-shoes/index.html",
-    "main.8e6db7c8.css.map": "/react-shoes/static/css/main.8e6db7c8.css.map",
+    "main.d56ac252.css.map": "/react-shoes/static/css/main.d56ac252.css.map",
     "main.ed24d3c4.js.map": "/react-shoes/static/js/main.ed24d3c4.js.map",
     "Cart.b5d7f0f2.chunk.js.map": "/react-shoes/static/js/Cart.b5d7f0f2.chunk.js.map",
     "629.224d6d48.chunk.js.map": "/react-shoes/static/js/629.224d6d48.chunk.js.map",
     "NotFound.dd30a0a0.chunk.js.map": "/react-shoes/static/js/NotFound.dd30a0a0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e6db7c8.css",
+    "static/css/main.d56ac252.css",
     "static/js/main.ed24d3c4.js"
   ]
 }
